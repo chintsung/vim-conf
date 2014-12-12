@@ -37,6 +37,7 @@ call vundle#rc()
 " My bundles
 Bundle 'gmarik/vundle'
 Bundle 'pyflakes.vim'
+Bundle 'rkulla/pydiction'
 Bundle 'scrooloose/nerdtree'
 Bundle 'Shougo/neocomplcache'
 Bundle 'majutsushi/tagbar'
