@@ -72,8 +72,8 @@ augroup filetype_python
  autocmd!
  autocmd FileType python set ai sw=4 sts=4
 
- "shortcut complete syntax
- autocmd FileType python set complete+=k~/.vim/syntax/python.vim isk+=.,
+ "set pydiction_location for pydiction which allow to Tab-complete Python code in Vim
+ let g:pydiction_location = '~/.vim/bundle/pydiction/complete-dict'
 augroup END
 
 augroup jelly
