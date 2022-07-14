@@ -41,6 +41,7 @@ Bundle 'rkulla/pydiction'
 Bundle 'scrooloose/nerdtree'
 Bundle 'Shougo/neocomplcache'
 Bundle 'majutsushi/tagbar'
+Bundle 'iamcco/markdown-preview.nvim'
 " end of Vundle
 
 function! Notice()
